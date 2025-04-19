@@ -1,3 +1,5 @@
+[![Ranxin2023's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranxin2023&show_icons=true&theme=default&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranxin2023&layout=compact&langs_count=10&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranxin2023&show_icons=true&count_private=true&hide=stars&rank_icon=github)
